@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "email": "ines@gmail.com",
+      "password": "hjhhj",
+      "id": 10
+    },
+    {
+      "email": "nasim@gmail.com",
+      "password": "jhghg",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
